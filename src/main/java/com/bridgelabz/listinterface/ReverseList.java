@@ -14,6 +14,7 @@ public class ReverseList {
     }
 
 
+
     // Method to reverse a LinkedList
     public static void reverseLinkedList(LinkedList<Integer> list) {
         System.out.print("Reversed LinkedList: ");
